@@ -36,6 +36,10 @@ File markdown yang berisi analisis perbandingan kerangka regulasi AI internasion
 ## Penggunaan
 Buka file `index.html` di peramban web modern untuk melihat tampilan utama dari proyek ini.
 
+## Tampilan Online
+Proyek ini juga dapat diakses secara online melalui GitHub Pages di alamat:
+https://ataraxianusa.github.io/Navigating-AI-in-FINDUSTRY/
+
 ## Kontribusi
 Kami menyambut kontribusi dari komunitas. Silakan buat pull request untuk perbaikan atau tambahan informasi.
 
